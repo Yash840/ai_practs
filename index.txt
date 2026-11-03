@@ -1,0 +1,14 @@
+8_queens.py
+a_.py
+alpha_beta.py
+chatbot.py
+goal_stack.py
+index.txt
+intelligent_agent.py
+minimax.py
+number_guessing.py
+sudoku.py
+toh.py
+tsp.py
+vaccum_cleaner.py
+water_jug.py
