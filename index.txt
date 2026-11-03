@@ -12,3 +12,4 @@ toh.py
 tsp.py
 vaccum_cleaner.py
 water_jug.py
+bfs.py (8 puzzle)
